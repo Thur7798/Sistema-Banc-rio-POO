@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./model/entities",
+        "./model/services"
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}
